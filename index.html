@@ -4,10 +4,6 @@
     <meta charset="UTF-8" />
     <title>Redirect+ | Central de Ajuda</title>
     <link rel="icon" href="https://redirectmais.com/assets/images/favicon.ico" />
-    <meta
-      name="google-site-verification"
-      content="6t0LoIeFksrjF4c9sqUEsVXiQNxLp2hgoqo0KryT-sE"
-    />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <meta
       name="keywords"
@@ -46,10 +42,6 @@
         min-width: 100px;
       }
 
-      #carbonads {
-        box-shadow: none !important;
-        width: auto !important;
-      }
       .app-name-link img {
         height: 17px;
       }
@@ -93,10 +85,6 @@
         maxLevel: 4,
         subMaxLevel: 2,
         ga: 'UA-165897798-1',
-        matomo: {
-          host: '//matomo.thunderwave.de',
-          id: 6,
-        },
         name: 'Redirect+',
         logo: 'https://redirectmais.com/assets/images/logo-horizontal-dark.png',
         search: {
@@ -180,7 +168,6 @@
         // Public site only
         if (/docsify/.test(location.host)) {
           loadJS('//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/ga.min.js');
-          loadJS('//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/matomo.min.js');
         }
       })();
     </script>

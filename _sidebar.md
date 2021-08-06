@@ -1,5 +1,4 @@
 - Sua Conta
-
   - [Não recebi o meu acesso. E agora?](/my-docs/nao-recebi-meu-acesso-e-agora.md)
   - [Alterar E-mail](/my-docs/alterar-e-mail.md)
   - [Alterar Forma de Pagamento](/my-docs/alterar-forma-de-pagamento.md)
