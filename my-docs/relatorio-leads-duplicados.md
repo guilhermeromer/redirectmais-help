@@ -1,5 +1,7 @@
 ﻿# Como utilizar o relatório de Leads Duplicados?
 
+<hr>
+
 Ao montar uma campanha, e importar os dados utilizando a extensão Redirect+, é possível gerar o relatório de leads duplicados.
 
 > Importante: antes de utilizar este relatório, visualize o tópico "Como Extrair seus Leads".

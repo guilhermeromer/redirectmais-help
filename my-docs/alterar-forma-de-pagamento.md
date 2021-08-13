@@ -1,6 +1,6 @@
 ﻿# Como alterar a forma de pagamento  de uma assinatura?
 
-
+<hr>
 
 
 

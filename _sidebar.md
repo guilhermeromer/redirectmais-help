@@ -7,6 +7,13 @@
   - [Estatísticas da Campanha](/my-docs/ver-estatisticas-campanha.md)
   - [Como extrair seus leads](/my-docs/extensao-redirect.md)
   - [Relatório de Leads Duplicados](/my-docs/relatorio-leads-duplicados.md)
+  - [Relatório de Saída de Leads](/my-docs/relatorio-saida-de-leads.md)
+  - [Domínio Customizado](/my-docs/dominio-personalizado.md)
+
+- Avançado
+  - [Domínio Customizado](/my-docs/dominio-personalizado.md)
+  - [Pixel, Analytics e Tag Manager](/my-docs/pixel-analytics-tagmanager.md)
+  - [Redirecionador por Data](/my-docs/redirect-por-data.md)
 
 - Afiliados
   - [Como se tornar nosso Afiliado?](/my-docs/como-se-tornar-afiliado.md)

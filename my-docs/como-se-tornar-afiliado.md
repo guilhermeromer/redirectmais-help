@@ -1,5 +1,7 @@
 ﻿# Como se tornar afiliado da Redirect+ pela Eduzz?
 
+<hr>
+
 Indique a Redirect+ para seus amigos e receba mensalmente na sua conta da Eduzz ganhos de até **30% sobre cada assinatura** conquistada com o seu link de afiliado.
 
 ### Primeiro passo

@@ -1,5 +1,7 @@
 ﻿# Como alterar o e-mail de sua conta Redirect+?
 
+<hr>
+
 > Importante: se você adquiriu a Redirect+ e colocou um e-mail incorreto ou que você não tem acesso, não será possível enviar o e-mail contendo seus acessos. Nesse caso, entre em contato com o suporte via chat ou e-mail: contato@redirectmais.com para receber seus acessos por outro e-mail.
 
 

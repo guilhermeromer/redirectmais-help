@@ -1,5 +1,7 @@
 ﻿# Extensão Redirect+: como utiliza-la para extrair seus leads dos grupos?
 
+<hr>
+
 No vídeo abaixo explicamos detalhadamente como baixar e utilizar a nossa extensão exclusiva.
 
 <iframe width="683" height="384" src="https://www.youtube.com/embed/hQaTjvIy2hg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
