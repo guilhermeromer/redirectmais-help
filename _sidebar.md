@@ -4,11 +4,12 @@
   - [Alterar Forma de Pagamento](/my-docs/alterar-forma-de-pagamento.md)
   
 - Suas Campanhas
+  - [Como criar uma Campanha](/my-docs/como-criar-uma-campanha.md)
   - [Estatísticas da Campanha](/my-docs/ver-estatisticas-campanha.md)
   - [Como extrair seus leads](/my-docs/extensao-redirect.md)
+  - [Lista de Espera](/my-docs/lista-de-espera.md)
   - [Relatório de Leads Duplicados](/my-docs/relatorio-leads-duplicados.md)
   - [Relatório de Saída de Leads](/my-docs/relatorio-saida-de-leads.md)
-  - [Domínio Customizado](/my-docs/dominio-personalizado.md)
 
 - Avançado
   - [Domínio Customizado](/my-docs/dominio-personalizado.md)
