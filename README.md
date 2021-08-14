@@ -8,4 +8,6 @@ Você também pode obter ajuda pelos nossos chats espalhados em nossas páginas,
 
 > Veja aqui um tutorial rápido de como utilizar a Redirect+.
 
-<iframe width="720" height="405" src="https://www.youtube.com/embed/9qrptfGTScE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9 col-12 col-md-8">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9qrptfGTScE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
