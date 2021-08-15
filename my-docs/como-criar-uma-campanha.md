@@ -79,7 +79,7 @@ Para alterações gerais dos seus links clique em "Editar sua campanha" na pági
 
 A quarta fase e última será "Personalização" onde você poderá customizar seu link de redirecionamento, alterando o que está escrito, a foto principal, cores, etc. Ao finalizar as alterações clique em "Finalizar/Salvar".
 
-![enter image description here](https://i.imgur.com/tZRJW8R.png)
+![enter image description here](https://i.imgur.com/2U66IgZ.png)
 
 
 ### Oitavo passo
