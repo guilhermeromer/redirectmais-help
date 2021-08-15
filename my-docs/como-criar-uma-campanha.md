@@ -1,10 +1,10 @@
-﻿
-# Como criar uma campanha?
+﻿# Como criar uma campanha?
 
 <hr>
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/9qrptfGTScE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<hr>
 
 ### Primeiro passo
 
@@ -28,11 +28,11 @@ Clique em **"Criar nova campanha"** no canto superior da tela.
 
 Clique em <b>Informações básicas</b> e preencha os dados conforme seu lançamento demanda.
 
-Na data de término, selecione a data no qual o seu lançamento serea interrompiddo (ou, no caso, quando você quer que a Redirect+ pare de mandar seus leads para seus grupos).
+Na data de término, selecione a data no qual o seu lançamento será interrompido (ou, no caso, quando você quer que a Redirect+ pare de mandar seus leads para seus grupos).
 
-Se a sua campanha for pausada ou atingir a data de término, todos os seus links serão redirecionados para a URL de encerramento escolhida.
+Se a sua campanha for pausada ou atingir a data de término, todos os seus leads serão redirecionados para a URL de encerramento. Na URL de encerramento, você poderá colocar a página no qual você gostaria que seus leads fossem redirecionados (essa pode ser uma página de lista de espera customizada, uma página de obrigado, um checkout ou qualquer oura página).
 
-No campo de <b>Url Customizada</b> você pode colocar a URL que quiser.
+No campo <b>URL Customizada</b> você pode colocar a URL que quiser.
 
 > Supondo que você colocará "minha-url-personalizada" nesse campo, o link do seu lançamento será <span style="color: #8a8a8a !important;">http://www.redirectmais.com/run/</span><strong>minha-url-personalizada</strong>/
 
@@ -54,11 +54,13 @@ Em relação à entrada de leads nos grupos, a Redirect+ disponibiliza a possibi
 
 > Importante: a Redirect+ evita leads duplicados com essa funcionalidade, entretanto se seu lead entrar através de outro dispositivo no seu link da Redirect+ ou entrar usando uma guia anônima ele ainda poderá entrar em múltiplos grupos, ok?
 
-Ativando a lista de espera, assim que seu projeto for encerrado ou pausado, a Redirect+ irá armazenar os leads para que você posteriormente possa baixar a lista de leads ou entrar em contato com eles. Ainda nessa função, é possível a inserção de mais campos do formulário de lista de espera, clicando em " + Adicionar mais".
+Ativando a lista de espera, assim que seu projeto for encerrado ou pausado, a Redirect+ irá mostrar uma página com um formulário para você capturar leads mesmo apóso encerramento da sua campanha. Armazenaremos os dados para que você posteriormente possa baixar a lista de leads e usar em campanhas de remarketing ou entrar em contato com eles. Ainda nessa função, é possível a inserção de mais campos do formulário de lista de espera, clicando em " + Adicionar mais".
 
-Clique em " Ver configurações avançadas" para inserir Facebook Pixel ID, Google Tag Manager ID, Google Analytics ID e entre várias outras configurações possíveis.
+> Observação: ao ativar a lista de espera, em vez de redirecionar seu lead para a URL de encerramento, a Redirect+ redirecionará seu lead para o formulário de lista de espera, ok?
 
-> É importante ressaltar que ao adicionar qualquer ID, é necessário que o tempo de redirecionamento seja superior a dois segundos, pois é o tempo mínimo para que esses serviços realizem o tracking dos seus leads.
+Agora clique em " Ver configurações avançadas" para inserir Facebook Pixel ID, Google Tag Manager ID, Google Analytics ID e entre várias outras configurações possíveis.
+
+> É importante ressaltar que ao adicionar qualquer ID, é necessário que o tempo de redirecionamento seja superior a dois segundos, pois é o tempo mínimo para que esses serviços realizem o <i>tracking</i> dos seus leads.
 
 ![enter image description here](https://i.imgur.com/4WQD8ax.png)
 
