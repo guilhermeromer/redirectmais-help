@@ -58,6 +58,7 @@
 
           gtag('config', 'AW-478893978');
         </script>
+        
 
     <meta charset="UTF-8" />
     <title>Redirect+ | Central de Ajuda</title>
@@ -236,5 +237,17 @@
     </script>
     <script src="//cdn.jsdelivr.net/npm/vue@2/dist/vue.min.js"></script>
     <!-- <script src="//cdn.jsdelivr.net/npm/vue@3/dist/vue.global.prod.js"></script> -->
+
+
+    <script src="//code-sa1.jivosite.com/widget/hJmzXnLCfR" async></script>
+
+    <script>
+        function jivo_onOpen() {
+            var now = new Date();
+            if ((now.getHours() >= 17 && now.getHours() <= 8) || (now.getDay() == 6 || now.getDay() == 0)) {
+                jivo_api.sendMessage("Nosso horário de atendimento é de 08:00h às 17:00h de Segunda a Sexta, mas se não quiser esperar, deixe sua mensagem junto ao seu WhatsApp (com DDD) e nós lhe retornaremos assim que possível. (msg_id: " + Math.round(Math.random() * 1000) + ")")
+            }
+        }
+    </script>
   </body>
 </html>
