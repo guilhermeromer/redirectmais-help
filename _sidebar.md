@@ -8,6 +8,7 @@
   - [Estatísticas da Campanha](/docs/ver-estatisticas-campanha.md)
   - [Como extrair seus leads](/docs/extensao-redirect.md)
   - [Lista de Espera](/docs/lista-de-espera.md)
+  - [Modo Loop](/docs/modo-loop.md)
   - [Relatório de Leads Duplicados](/docs/relatorio-leads-duplicados.md)
   - [Relatório de Saída de Leads](/docs/relatorio-saida-de-leads.md)
 
