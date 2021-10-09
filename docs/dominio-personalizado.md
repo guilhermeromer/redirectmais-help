@@ -1,4 +1,4 @@
-﻿# Domínio personalizado, como funciona?
+﻿# Domínio personalizado: como funciona?
 
 <hr>
 
