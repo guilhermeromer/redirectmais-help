@@ -16,6 +16,8 @@
 
   - [WhatsApp Multi Devices](/docs/como-acionar-multi-devices.md)
   - [Como Cadastrar um Celular](/docs/como-adicionar-um-celular.md)
+  - [Como Criar uma Campanha](/docs/como-criar-campanhas-whatsapp.md)
+  - [Como Programar Mensagens](/docs/como-programar-mensagens-whatsapp.md)
 
 - Avançado
   - [Domínio Customizado](/docs/dominio-personalizado.md)
