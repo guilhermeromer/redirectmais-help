@@ -12,11 +12,11 @@
 
 ### 1° passo:
 
-Para configurar um subdomínio na Redirect+, você precisa adicionar uma entrada  **CNAME** no seu serviço de DNS. Você apontará seu subdomínio para o endereço  **proxy.redirectmais.com**
+Para configurar um subdomínio na Redirect+, você precisa adicionar uma entrada  **CNAME** no seu serviço de DNS. Você apontará seu subdomínio para o endereço  **proxy-ssl.redirectmais.com**
 
 Exemplo:
 
-![enter image description here](https://i.imgur.com/70b2J16.png)
+![enter image description here](https://i.imgur.com/P9CdNU9.png)
 
 
 
