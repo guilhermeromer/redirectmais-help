@@ -3,6 +3,12 @@
   - [Alterar E-mail](/docs/alterar-e-mail.md)
   - [Alterar Forma de Pagamento](/docs/alterar-forma-de-pagamento.md)
   
+- Campanhas WhatsApp
+  - [WhatsApp Multi Devices](/docs/como-acionar-multi-devices.md)
+  - [Como Cadastrar um Celular](/docs/como-adicionar-um-celular.md)
+  - [Como Criar uma Campanha](/docs/como-criar-campanhas-whatsapp.md)
+  - [Como Programar Mensagens](/docs/como-programar-mensagens-whatsapp.md)
+
 - Campanhas (por clique)
   - [Como criar uma Campanha](/docs/como-criar-uma-campanha.md)
   - [Estatísticas da Campanha](/docs/ver-estatisticas-campanha.md)
@@ -11,13 +17,6 @@
   - [Modo Loop](/docs/modo-loop.md)
   - [Relatório de Leads Duplicados](/docs/relatorio-leads-duplicados.md)
   - [Relatório de Saída de Leads](/docs/relatorio-saida-de-leads.md)
-
-- Campanhas WhatsApp
-
-  - [WhatsApp Multi Devices](/docs/como-acionar-multi-devices.md)
-  - [Como Cadastrar um Celular](/docs/como-adicionar-um-celular.md)
-  - [Como Criar uma Campanha](/docs/como-criar-campanhas-whatsapp.md)
-  - [Como Programar Mensagens](/docs/como-programar-mensagens-whatsapp.md)
 
 - Avançado
   - [Domínio Customizado](/docs/dominio-personalizado.md)
