@@ -20,7 +20,9 @@ Exemplo:
 
 ### Segundo passo
 
-Registre o seu subdomínio utilizando o registro CNAME no seu serviço de DNS de preferência. A Redirect+ recomenda o serviço de DNS da Cloudflare devido ao benefício do uso de certificados de segurança (SSL) gratuitos e aplicáveis a qualquer domínio e subdomínio.
+Registre o seu subdomínio utilizando o registro CNAME no seu serviço de DNS de preferência.
+
+> Atenção: caso você use o serviço de DNS da Cloudflare, lembre-se de desligar o proxy da Cloudflare para o registro CNAME que você fizer para a Redirect+. Para delsigar o proxy para apenas esse registro, clique na nuvem laranja que estará do lado do registro até que ela se torne cinza. Caso ainda precise de ajuda, procure nosso suporte técnico para mais ajuda.
 
 ### Terceiro passo
 
