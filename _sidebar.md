@@ -2,6 +2,7 @@
   - [Não recebi o meu acesso. E agora?](/docs/nao-recebi-meu-acesso-e-agora.md)
   - [Alterar E-mail](/docs/alterar-e-mail.md)
   - [Alterar Forma de Pagamento](/docs/alterar-forma-de-pagamento.md)
+  - [Como se tornar nosso Afiliado?](/docs/como-se-tornar-afiliado.md)
   
 - Campanhas WhatsApp
   - [Como Criar uma Campanha](/docs/como-criar-campanhas-whatsapp.md)
@@ -22,6 +23,3 @@
   - [Domínio Customizado](/docs/dominio-personalizado.md)
   - [Pixel, Analytics e Tag Manager](/docs/pixel-analytics-tagmanager.md)
   - [Redirecionador por Data](/docs/redirect-por-data.md)
-
-- Afiliados
-  - [Como se tornar nosso Afiliado?](/docs/como-se-tornar-afiliado.md)
