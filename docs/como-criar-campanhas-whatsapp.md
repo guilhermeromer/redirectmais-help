@@ -1,8 +1,14 @@
 # Como criar campanhas no módulo WhatsApp?
 
-***IMPORTANTE***: Para criar uma campanha neste módulo é preciso cadastrar ao menos um telefone.
+<hr>
 
+<div class="embed-responsive embed-responsive-16by9 col-12 col-md-8">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/xgkVeA4DOUk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
+<hr>
+
+> Para criar uma campanha neste módulo é preciso cadastrar ao menos um telefone.
 ### 1° passo
 
 Acesse sua conta **Redirect+**. Na sua dashboard principal, clique em **"Campanhas WhatsApp"** e posteriormente em **"Suas campanhas"**.
