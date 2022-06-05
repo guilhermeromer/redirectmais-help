@@ -6,8 +6,6 @@
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/xgkVeA4DOUk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<hr>
-
 > Para criar uma campanha neste módulo é preciso cadastrar ao menos um telefone.
 ### 1° passo
 

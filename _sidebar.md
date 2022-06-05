@@ -4,10 +4,10 @@
   - [Alterar Forma de Pagamento](/docs/alterar-forma-de-pagamento.md)
   
 - Campanhas WhatsApp
-  - [WhatsApp Multi Devices](/docs/como-acionar-multi-devices.md)
-  - [Como Cadastrar um Celular](/docs/como-adicionar-um-celular.md)
   - [Como Criar uma Campanha](/docs/como-criar-campanhas-whatsapp.md)
+  - [Como Cadastrar um Celular](/docs/como-adicionar-um-celular.md)
   - [Como Programar Mensagens](/docs/como-programar-mensagens-whatsapp.md)
+  - [WhatsApp Multi Devices](/docs/como-acionar-multi-devices.md)
 
 - Campanhas (por clique)
   - [Como criar uma Campanha](/docs/como-criar-uma-campanha.md)

@@ -2,6 +2,12 @@
 
 <hr>
 
+<div class="embed-responsive embed-responsive-16by9 col-12 col-md-8">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/xgkVeA4DOUk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+> Para criar uma campanha para WhatsApp é preciso cadastrar ao menos um telefone.
+
 ### 1° passo:
 
 Faça login em sua conta **Redirect+**, clique em "Campanhas WhatsApp" no menu e após isso clique em "Seus Celulares". Na página que abrir, clique no botão "Cadastrar novo Celular".
